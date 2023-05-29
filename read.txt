@@ -3,4 +3,6 @@ this one actually makes sense and
 can be used for smth, Extended Math
 is logically an extended version of
 the math module, it's free to use,
-OK bye
+BTW, This is V1, I'll try to find
+more stuff that the normal math
+module does not have, OK Bye
