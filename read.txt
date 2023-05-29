@@ -1,0 +1,6 @@
+Yet another module of mine, but
+this one actually makes sense and
+can be used for smth, Extended Math
+is logically an extended version of
+the math module, it's free to use,
+OK bye
